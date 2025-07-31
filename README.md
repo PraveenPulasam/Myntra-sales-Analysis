@@ -45,7 +45,8 @@ The goal of this project is to:
 
 ##  Dashboard Preview
 
-The dashb<img width="967" height="541" alt="image" src="https://github.com/user-attachments/assets/84d5a316-522e-42ea-9bed-cb15289cb421" />
+The dashb<<img width="1050" height="487" alt="Myntra ss (2)" src="https://github.com/user-attachments/assets/783e3b10-a665-410f-94dc-746df4c61f67" />
+/>
 oard includes interactive visuals with filters by category, state, brand, product, and more.
 
 ---
@@ -66,42 +67,3 @@ ADDCOLUMNS(
     "Day of week", FORMAT([Date], "DDDD"),
     "week id", WEEKDAY([Date])
 )
-## Clear All Filters Bookmark
-To enhance usability, a "Clear All Filters" button was implemented using Power BI’s Bookmark feature. This lets users reset all filters and return to the default dashboard view instantly—improving navigation and user experience.
-
-## Brand and Product Name Hierarchy
-A multi-level hierarchy was created for Brand Name → Product Name within a matrix visual. This allows users to:
-
-Start with a high-level brand view
-
-Drill down to individual product performance
-
-This drill-down capability provides deeper insights into specific product trends under each brand.
-
-##Future Enhancements
-### Predictive Analytics
-Incorporate Power BI’s forecasting tools or use Python/R integration to predict future sales trends.
-
-### Customer Segmentation
-Apply RFM (Recency, Frequency, Monetary) analysis to identify and target high-value customer segments.
-
-### Inventory Management Integration
-Combine inventory data to:
-
-Analyze stock availability
-
-Prevent stockouts
-
-Optimize procurement and fulfillment
-
-## Tools & Technologies Used
-Microsoft Power BI
-
-DAX (Data Analysis Expressions)
-
-Excel / CSV for source data
-
-Data Modeling & Transformation
-
-Interactive Visualization & UX Design
-
