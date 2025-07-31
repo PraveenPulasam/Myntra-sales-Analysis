@@ -45,8 +45,8 @@ The goal of this project is to:
 
 ##  Dashboard Preview
 
-<<img width="1050" height="487" alt="Myntra ss (2)" src="https://github.com/user-attachments/assets/783e3b10-a665-410f-94dc-746df4c61f67" />
-/>
+<img width="1050" height="487" alt="Myntra ss (2)" src="https://github.com/user-attachments/assets/783e3b10-a665-410f-94dc-746df4c61f67" />
+
 The dashboard includes interactive visuals with filters by category, state, brand, product, and more.
 
 ---
